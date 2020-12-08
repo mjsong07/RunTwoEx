@@ -1,0 +1,51 @@
+/*
+ Localizable.strings
+ RunTwoEx
+ 
+ Created by jason yang on 14-6-19.
+ Copyright (c) 2014年 jason yang. All rights reserved.
+ */
+"GameName"="RunTwo";
+"Loading"="Loading...";
+"Score"="Score:";
+"Best"="Best:";
+"Warning"="Warning";
+"Info"="Info";
+"Error"="Error";
+"Confirm"="Confirm";
+"NoInternet"="No internet connection!";
+"NoSetAccount"="No set Share Account!";
+"RankGame"="Do you want to rank the RunTwo?";
+"shareContent"="I playing the Game!";
+"shareScoreContent"="I won";
+"shareScoreContentBy"="points in the RunTwo Game";
+"Yes"="Yes";
+"No"="No";
+
+
+
+"YouScore"="You score:";
+"Play"="Play";
+"More"="More";
+"Back"="Back";
+"BestScore"="Best Score:";
+"MaxDistance"="Max Distance:";
+"MaxStar"="Max Star:";
+"help1"="press (A) to Scroll";
+"help2"="press (B) to Jump";
+"help3"="(C) to Change Color";
+
+"LoadingPurchases"="Loading purchases info...";
+"GetPurchaseNil"="Get purchase nil!";
+"NotEnoughStarsToBuy"="Not enough Stars to buy ";
+"Lifes"="Lifes";
+"Stars"="Stars"; 
+"TheMaxLifeIs"="The max Life is";
+"DoYouWantToBuy"="Do you want to buy ";
+"for"="for";
+"Buy"="Buy";
+"Cancel"="Cancel";
+"success"="success";
+"PleaseTryAgainLater"="Please try again later!";
+"PurchaseTimeout"="Purchase timeout!";
+

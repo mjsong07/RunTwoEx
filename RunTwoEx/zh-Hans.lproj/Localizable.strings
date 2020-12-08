@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  RunTwoEx
+
+  Created by jason yang on 14-6-19.
+  Copyright (c) 2014年 jason yang. All rights reserved.
+*/
+"GameName"="跑二";
+"Loading"="加载中...";
+"Score"="分数:";
+"Best"="最高:";
+"Warning"="警告";
+"Info"="提示";
+"Error"="异常";
+"Confirm"="确定";
+"NoInternet"="当前无网络连接!";
+"NoSetAccount"="当前未设置分享账号信息!";
+"RankGame"="给评个分吧^_^";
+"shareContent"="我正在玩游戏[跑二],你也快来试试吧";
+"shareScoreContent"="我在游戏－[跑二]中赢得了";
+"shareScoreContentBy"="分";
+"Yes"="好";
+"No"="无情拒绝";

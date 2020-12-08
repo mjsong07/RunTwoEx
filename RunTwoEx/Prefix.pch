@@ -1,0 +1,44 @@
+//
+// Prefix header for all source files of the 'Test' target in the 'Test' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+/*
+#ifdef DEBUG
+#define NSLog(...) NSLog(__VA_ARGS__);
+#else
+#define NSLog(...);
+#endif*/
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "cocos2d.h" 
+#import "SOXGlobal.h"
+
+#import "SOXMath.h"
+#import "SOXConfig.h"
+#import "SOXKey.h"
+#import "SOXStyle.h"
+#import "SOXUtil.h"
+#import "SOXMapUtil.h"
+#import "SOXSoundUtil.h"
+#import "SOXDBUtil.h"
+#import "SOXDBGameUtil.h" 
+#import "SOXDebug.h" 
+#import "SOXShareUtil.h"
+#import "Thing.h"
+#import "SOXGameUtil.h" 
+#import "MenuNavInfo.h" 
+#import "SOXGameCenterUtil.h"
+#import "SOXObjCacheUtil.h"
+#import "CCNodeAdditions.h"
+#import "SceneSwitch.h"
+#import "SOXEnum.h"
+#import "GameHelper.h"
+
+#endif

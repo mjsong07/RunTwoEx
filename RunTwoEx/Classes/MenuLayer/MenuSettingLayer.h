@@ -1,0 +1,14 @@
+//
+//  GameSettingLayer.h
+//  RunTwo
+//
+//  Created by mjsong on 13-5-11.
+//
+//
+ 
+#import "MenuBaseLayer.h"
+@interface MenuSettingLayer : MenuBaseLayer { 
+}
+
++ (id)scene; 
+@end

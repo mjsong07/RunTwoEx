@@ -1,0 +1,52 @@
+/*
+ Localizable.strings
+ RunTwoEx
+ 
+ Created by jason yang on 14-6-19.
+ Copyright (c) 2014年 jason yang. All rights reserved.
+ */
+"GameName"="くるみ割り人形";
+"Loading"="ロード中...";
+"Score"="スコア:";
+"Best"="ベスト:";
+"Warning"="警告";
+"Info"="情報";
+"Error"="エラー";
+"Confirm"="確認";
+"NoInternet"="ネットワーク接続しない!";
+"NoSetAccount"="社交アカウント未設定!";
+"RankGame"="ランクゲーム?";
+"shareContent"="私はゲームをくるみ割り人形!";
+"shareScoreContent"="私は";
+"shareScoreContentBy"="点を獲得したゲームくるみ割り人形";
+"Yes"="はい";
+"No"="次回";
+
+"YouScore"="スコア:";
+"Play"="遊び";
+"More"="より多くの";
+"Back"="バック";
+"BestScore"="最高のベスト:";
+"MaxDistance"="最高の距離:";
+"MaxStar"="最高の星:";
+
+"help1"="(A)-> スクロール";
+"help2"="(B)-> ジャンプ";
+"help3"="(C)-> 色を変える";
+
+
+"LoadingPurchases"="荷重購入品情報...";
+"GetPurchaseNil"="購入を得る空!";
+"NotEnoughStarsToBuy"="を買うのに十分でないスター";
+"Lifes"="ライフ";
+"Stars"="星";
+"TheMaxLifeIs"="最大限でライフです";
+"DoYouWantToBuy"="を買いたいですか";
+"for"="を";
+"Buy"="購入";
+"Cancel"="取り消す";
+"success"="成功";
+"PleaseTryAgainLater"="後でもう一度ためしてください!";
+"PurchaseTimeout"="購入のタイムアウト!";
+
+

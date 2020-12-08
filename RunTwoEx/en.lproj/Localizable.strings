@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  RunTwoEx
+
+  Created by jason yang on 14-6-19.
+  Copyright (c) 2014年 jason yang. All rights reserved.
+*/
+"GameName"="RunTwo";
+"Loading"="Loading...";
+"Score"="Score:";
+"Best"="Best:";
+"Warning"="Warning";
+"Info"="Info";
+"Error"="Error";
+"Confirm"="Confirm";
+"NoInternet"="No internet connection!";
+"NoSetAccount"="No set Share Account!";
+"RankGame"="Do you want to rank the RunTwo?";
+"shareContent"="I playing the Game!";
+"shareScoreContent"="I won";
+"shareScoreContentBy"="points in the RunTwo Game";
+"Yes"="Yes";
+"No"="No";
