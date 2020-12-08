@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="60" height="10" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="bg_tmx" tilewidth="32" tileheight="32">
+  <image source="bg_tmx.png" width="320" height="320"/>
+  <tile id="0">
+   <properties>
+    <property name="isFloor" value="1"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="colorType" value="red"/>
+    <property name="objType" value="life"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="colorType" value="blue"/>
+    <property name="objType" value="star"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="colorType" value="pink"/>
+    <property name="objType" value="star"/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="isFloor" value="1"/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="colorType" value="pink"/>
+    <property name="objType" value="line"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="colorType" value="blue"/>
+    <property name="objType" value="line"/>
+   </properties>
+  </tile>
+  <tile id="14">
+   <properties>
+    <property name="colorType" value="blue"/>
+    <property name="objType" value="line"/>
+   </properties>
+  </tile>
+  <tile id="15">
+   <properties>
+    <property name="colorType" value="pink"/>
+    <property name="objType" value="line"/>
+   </properties>
+  </tile>
+  <tile id="30">
+   <properties>
+    <property name="isFloor" value="1"/>
+   </properties>
+  </tile>
+  <tile id="31">
+   <properties>
+    <property name="isFloor" value="1"/>
+   </properties>
+  </tile>
+  <tile id="32">
+   <properties>
+    <property name="isFloor" value="1"/>
+   </properties>
+  </tile>
+  <tile id="64">
+   <properties>
+    <property name="isBaffle" value="1"/>
+   </properties>
+  </tile>
+  <tile id="81">
+   <properties>
+    <property name="ObjTypeId" value="2"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="FloorLayer" width="60" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUUAIYicCjYPCBgYorethHTJociWmT2v6lR/hSEpeUuocUu0k1nxyzqRW21LCbGDcAAN8kAGo=
+  </data>
+ </layer>
+ <layer name="ThingLayer" width="60" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFtAasRODhAPih9Ejxr+RAO4AGgA0HDQLKNLYXhmkByEl3urRwCBFAYIDspSXAl/elCOglJm2gy9OyjKE0japQxRW0AcjhxkglM/WoZA42wMaAmT4GU10DALUlAec=
+  </data>
+ </layer>
+</map>
