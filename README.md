@@ -1,7 +1,7 @@
-# RunTwoEx
+# RunTwoEx 2020
 RunTwoEx ios game use cocos2d framework
 
-created by jason.yang in 2013/09
+created by jason.yang in 2013/09 
 
 about:
 
